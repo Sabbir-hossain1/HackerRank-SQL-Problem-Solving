@@ -8,3 +8,5 @@ SELECT name
 from employee
 WHERE salary > 2000 and months < 10
 ORDER BY employee_id;
+
+Congrats to Myself! I just solved all the Basic Select challenges in SQL!
