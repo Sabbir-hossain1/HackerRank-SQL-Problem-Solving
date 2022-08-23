@@ -1,0 +1,3 @@
+SELECT TRUNCATE(MAX(LAT_N),4)
+from station
+Where LAT_N < 137.2345;
